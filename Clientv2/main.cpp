@@ -8,6 +8,8 @@
 ** Last update Thu Jun 19 18:00:30 2014 gaetan magal
 */
 
+#include <SFML/Graphics.hpp>
+
 int	main(int ac, char **av)
 {
 
